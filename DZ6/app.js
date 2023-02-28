@@ -26,7 +26,7 @@ btnPrev.onclick = () => {
     fetch(`https://jsonplaceholder.typicode.com/todos/${count}`)
         .then(response => response.json())
         .then(data => {
-            if (count >= 0) {
+            if (count >= 1) {
                 const h2 = document.querySelector('h2')
                 const span = document.querySelector('span')
                 const h3 = document.querySelector('h3')
