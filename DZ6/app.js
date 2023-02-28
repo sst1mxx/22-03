@@ -16,6 +16,7 @@ btnNext.onclick = () => {
                 span.innerText = `${data.id}`
                 h3.innerText = `${data.completed}`
             } else {
+                count = 200
                 console.log('Error')
             }
         })
