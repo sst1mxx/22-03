@@ -1,0 +1,132 @@
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1679461566046)
++++ b/.idea/modules.xml	(date 1679461566046)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/my_app.iml" filepath="$PROJECT_DIR$/.idea/my_app.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1679461566104)
++++ b/.idea/vcs.xml	(date 1679461566104)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../.idea/DZ2.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../.idea/DZ2.iml b/../.idea/DZ2.iml
+new file mode 100644
+--- /dev/null	(date 1679416853691)
++++ b/../.idea/DZ2.iml	(date 1679416853691)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/temp" />
++      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
++      <excludeFolder url="file://$MODULE_DIR$/tmp" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/Project_Default.xml b/.idea/inspectionProfiles/Project_Default.xml
+new file mode 100644
+--- /dev/null	(date 1679461565844)
++++ b/.idea/inspectionProfiles/Project_Default.xml	(date 1679461565844)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
++  </profile>
++</component>
+\ No newline at end of file
+Index: .idea/my_app.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/my_app.iml b/.idea/my_app.iml
+new file mode 100644
+--- /dev/null	(date 1679461565981)
++++ b/.idea/my_app.iml	(date 1679461565981)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/temp" />
++      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
++      <excludeFolder url="file://$MODULE_DIR$/tmp" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1679461567243)
++++ b/.idea/.gitignore	(date 1679461567243)
+@@ -0,0 +1,5 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+Index: .idea/discord.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/discord.xml b/.idea/discord.xml
+new file mode 100644
+--- /dev/null	(date 1679461549014)
++++ b/.idea/discord.xml	(date 1679461549014)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="DiscordProjectSettings">
++    <option name="show" value="ASK" />
++    <option name="description" value="" />
++  </component>
++</project>
+\ No newline at end of file
